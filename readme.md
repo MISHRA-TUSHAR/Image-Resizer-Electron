@@ -28,8 +28,7 @@ npx electronmon .
 
 ## Packaging
 
-There are multiple ways to package Electron apps. I would suggest [Electron Forge](https://www.electronforge.io/). I did not implement any packaging into this app.
-
+There are multiple ways to package Electron apps. Suggested one is [Electron Forge](https://www.electronforge.io/).
 ## Developer Mode
 
 If your `NODE_ENV` is set to `development` then you will have the dev tools enabled and available in the menu bar. It will also open them by default.
